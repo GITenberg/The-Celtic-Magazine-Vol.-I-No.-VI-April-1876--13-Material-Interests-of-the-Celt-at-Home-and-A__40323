@@ -1,0 +1,47 @@
+_repo: The-Celtic-Magazine-Vol.-I-No.-VI-April-1876--13-Material-Interests-of-the-Celt-at-Home-and-A__40323
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Macbain, Alexander
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '31692'
+    url: http://www.gutenberg.org/2009/agents/31692
+  - agent_name: Macgregor, Alexander
+    birthdate: 1806
+    deathdate: 1881
+    gutenberg_agent_id: '31691'
+    url: http://www.gutenberg.org/2009/agents/31691
+  - agent_name: Mackenzie, Alexander
+    alias: Mackenzie, A. (Alexander)
+    birthdate: 1838
+    deathdate: 1898
+    gutenberg_agent_id: '1252'
+    url: http://www.gutenberg.org/2009/agents/1252
+description: ''
+gutenberg_bookshelf: Celtic Magazine
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Scotland -- Periodicals'
+- !lcsh 'Clans -- Scotland -- Periodicals'
+- !lcc 'DA'
+title: "The Celtic Magazine, Vol. I, No. VI, April 1876\r\nA Monthly Periodical Devoted\
+  \ to the Literature, History, Antiquities, Folk Lore, Traditions, and the Social\
+  \ and Material Interests of the Celt at Home and Abroad"
+url: http://www.gutenberg.org/ebooks/40323
